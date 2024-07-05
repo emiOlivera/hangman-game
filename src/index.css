@@ -144,6 +144,12 @@ body {
 }
 
 @media (max-width: 555px) {
+  .player1{
+    width: 75%;
+  }
+  .player2{
+    width: 75%;
+  }
   .letras {
       grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); 
       padding: 0 10px; 
