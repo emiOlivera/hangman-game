@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hangman-game/static/css/main.6c5fee32.css",
+    "main.css": "/hangman-game/static/css/main.e49b73f3.css",
     "main.js": "/hangman-game/static/js/main.fd93a799.js",
     "static/media/injuryBear.png": "/hangman-game/static/media/injuryBear.e767fee6ca0b660b0f82.png",
     "static/media/happyBear.png": "/hangman-game/static/media/happyBear.74a54430c3e3c1d3084b.png",
@@ -11,11 +11,11 @@
     "static/media/error2.png": "/hangman-game/static/media/error2.99876d915a28af123c1c.png",
     "static/media/error1.png": "/hangman-game/static/media/error1.7f2b5e029527daea62bf.png",
     "index.html": "/hangman-game/index.html",
-    "main.6c5fee32.css.map": "/hangman-game/static/css/main.6c5fee32.css.map",
+    "main.e49b73f3.css.map": "/hangman-game/static/css/main.e49b73f3.css.map",
     "main.fd93a799.js.map": "/hangman-game/static/js/main.fd93a799.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c5fee32.css",
+    "static/css/main.e49b73f3.css",
     "static/js/main.fd93a799.js"
   ]
 }
